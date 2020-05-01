@@ -21,9 +21,10 @@ h1 {
     width: 320px;
     margin-left: 12em;
 }
-.about-me{
-    color: red;
-    background-color: royalblue;
+.about-me-column{
     border: 1px solid;
+    width: 20%;
 }
-about
+.text-center{
+    text-align: center;
+}
