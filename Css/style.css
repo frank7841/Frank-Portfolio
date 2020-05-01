@@ -8,6 +8,9 @@ h1.myName{
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-header {
-    margin-left: 10%;
+section.description {
+    margin-left: 8%;
+}
+.name-image {
+    float: left;
 }
