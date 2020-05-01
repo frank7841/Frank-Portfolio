@@ -8,9 +8,10 @@ h1.myName{
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-section.description {
+.description {
+    display: table;
+    clear: both;
     margin-left: 8%;
-    padding: 1em
 }
 .name-image {
     float: left;
@@ -18,7 +19,11 @@ section.description {
 }
 .name-image img {
     width: 320px;
+    margin-left: 12em;
 }
-.text-center {
-    text-align: center;
+.about-me{
+    color: red;
+    background-color: royalblue;
+    border: 1px solid;
 }
+about
