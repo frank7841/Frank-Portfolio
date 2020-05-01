@@ -24,6 +24,8 @@ h1 {
 .about-me-column{
     border: 1px solid;
     width: 20%;
+    float: left;
+    padding: 1em;
 }
 .text-center{
     text-align: center;
