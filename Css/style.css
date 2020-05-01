@@ -10,7 +10,12 @@ h1 {
 }
 section.description {
     margin-left: 8%;
+    padding: 1em
 }
 .name-image {
     float: left;
+    width: 50%;
+}
+.name-image img {
+    width: 320px;
 }
