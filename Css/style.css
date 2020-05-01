@@ -27,13 +27,35 @@ h1 {
     float: left;
     border-style: hidden;
     height: 300px;
+    color: Silver;
+    text-align: center;
+}
+.about-me-column ol {
+    text-align: justify;
+
 }
 .about-me {
     content: "";
   display:table;
   clear:both;
-  background-color: darkgrey;
+  background-color:#282C35;
 }
 .text-center{
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: silver;
+}
+ul li {
+    display: inline;
+}
+a.phone {
+    float: right;
+    margin-right: 90px;
+}
+a.mail {
+    float: left;
+    margin-left: 95px;
+}
+ul li a {
+    text-decoration: none;
 }
