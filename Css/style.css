@@ -5,3 +5,9 @@ h1.myName{
     font-size:50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    margin-left: 10%;
+}
