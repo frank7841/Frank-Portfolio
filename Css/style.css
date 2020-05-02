@@ -32,7 +32,6 @@ h1 {
 }
 .about-me-column ol {
     text-align: justify;
-
 }
 .about-me {
     content: "";
@@ -59,4 +58,18 @@ a.mail {
 }
 ul li a {
     text-decoration: none;
+}
+.projects-details img {
+    width: 550px;
+    border-radius: 15px;
+    height: 300px;
+}
+.projects-details {
+    float: left;
+    width: 50%;
+    background-color:#777672;
+    height: 300px;
+}
+.projects-details p{
+    line-height: 2em;
 }
