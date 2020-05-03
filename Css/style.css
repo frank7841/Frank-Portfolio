@@ -63,13 +63,15 @@ ul li a {
     width: 550px;
     border-radius: 15px;
     height: 300px;
+    margin-top: 20px;
 }
 .projects-details {
     float: left;
     width: 50%;
-    background-color:#777672;
+    background-color:white;
     height: 300px;
 }
 .projects-details p{
     line-height: 2em;
 }
+
