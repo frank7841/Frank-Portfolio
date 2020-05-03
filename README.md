@@ -16,6 +16,10 @@
 ## Support and contact details
 {Frank simiyu
 e-mail franklinewax@gmail.com.}
+## Links to live site
+{https://frank7841.github.io/My-Favourite-Movie/
+https://frank7841.github.io/Chalbi-Resort/
+}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {2020} **{Frankline}**
