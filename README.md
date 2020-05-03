@@ -1,18 +1,18 @@
-# {My Faourite Movie Website}
-#### {This Website displays a brief infomation about Knight Rider}, {2020 04 29}
+# {Frank-Portfolio}
+#### {This is  my landing page portfoiio website that describes information about me including educational background and projects done.}, {2020 04 3}
 #### By **{Frank Simiyu}**
 ## Description
-{My favourite movie web app dispalys description of the Movie Knight rider. it includes information about the creater of the show, seasons produced, and the casts. its purpose is to convince you to atleast watch the movie if not make it your favourite to.  }
+{My porfolio is a landing page that uses minimalsm aspect, rather than linking to a page, the hire me link reffers to contact me section in the index page.the website gives a brief description about me and the projects I have done. It also has a brief description of the projects and provides links to the named projects.   }
 ## Setup/Installation Requirements
 * Laptop at 500 gb
 * 2gb RAM
 * you need any text editor prefferably visio code
 * google chrome browser since its a web app
-{Navigate to my-Favorite folder, launch index.html open with chrome browser. inace of any edits, open with vscode twext editor}
+{Navigate to Frank-Portfolio folder, launch index.html open with chrome browser. inace of any edits, open with vscode twext editor}
 ## Known Bugs
-{The website is currently unsupportive of responsive design . }
+{the input type tel does give limit to the integer characters that can be inputted. }
 ## Technologies Used
-{I used 'css' and 'html' to create colums that would have rather overflow in responsive design .}
+{I used 'css' and 'html' to create the website.}
 ## Support and contact details
 {Frank simiyu
 e-mail franklinewax@gmail.com.}
